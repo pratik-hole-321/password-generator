@@ -1,0 +1,9 @@
+https://password-generator-ochre.vercel.app/
+1.Navbar 
+	
+2.Radom Password Generator 
+
+3. What makes a password strong?
+
+4. Password generator FAQs
+
